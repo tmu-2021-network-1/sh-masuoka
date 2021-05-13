@@ -18,11 +18,11 @@ const renderJson = (json) => {
    studioTitleEn.textContent = studio['name-en'];
 
    const studioCore  = document.createElement('span');
-   studioCore.className = 'studio-core'
+   studioCore.className = 'studio-core';
    studioCore.textcontent = studio['core-ja'];
  
    const studioCoreEn = documemt.createElement('span');
-   studioaCoreEn.className = 'studio-class-name'
+   studioCoreEn.className = 'studio-core-en';
    studioCoreEn.textcontent = studio['core-en'];
 
    studioDiv.appendChild(studioTitle);
