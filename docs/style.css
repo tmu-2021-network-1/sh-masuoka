@@ -4,6 +4,8 @@ body {
   h1, h2 {
     font-weight: 400;
     color: steelblue;
+    font-family: 'Times New Roman';
+    background-color: #999999;
   }
   #studios > div {
     margin: 1em 0;
