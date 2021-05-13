@@ -18,12 +18,13 @@ const renderJson = (json) => {
    studioTitleEn.textContent = studio['name-en'];
    const studioDescription = document.createElement("p");
    studioDescription.className = 'studio-description';
-   studioDescription.textContent = studio['description-ja']
-   const studioFaculty = document.createElement("span");
+   studioDescription.textContent = studio['description-ja'];
+   const studioFaculty = document.createElement("p");
    studioFaculty.className = 'studio-faculty';
    studioFaculty.textContent = studio['faculty-ja'];
    studioDiv.appendChild(studioTitle);
    studioDiv.appendChild(studioTitleEn);
+   studioDiv.appendChild(studioFaculty);
    studioDiv.appendChild(studioDescription);
    document.getElementById('studios').appendChild(studioDiv);
  });
