@@ -1,7 +1,16 @@
 body {
     font-family: sans-serif;
   }
-  h1, h2 {
+  h1 {
+    width: 400px;
+    height: 100px;
+    text-align: left;
+    font-weight: 400;
+    color: rgb(231, 243, 247);
+    font-family: 'Times New Roman';
+    background-color: #999999;
+  }
+  h2 {
     font-weight: 400;
     color: steelblue;
     font-family: 'Times New Roman';
