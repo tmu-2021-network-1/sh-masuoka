@@ -2,8 +2,9 @@ body {
     font-family: sans-serif;
   }
   h1 {
-    width: 400px;
-    height: 100px;
+    padding: 10px 10px;
+    width: 500px;
+    height: 80px;
     text-align: left;
     font-weight: 400;
     color: rgb(231, 243, 247);
@@ -12,9 +13,9 @@ body {
   }
   h2 {
     font-weight: 400;
-    color: steelblue;
+    color: rgb(230, 61, 61);
     font-family: 'Times New Roman';
-    background-color: #999999;
+    font-weight: 200;
   }
   #studios > div {
     margin: 1em 0;
@@ -37,4 +38,8 @@ body {
   }
   .studio-faculty {
       font-weight: bold;
+  }
+  .studio-image{
+      width: 200;
+      height: fit-content;
   }

@@ -22,9 +22,13 @@ const renderJson = (json) => {
    const studioFaculty = document.createElement("p");
    studioFaculty.className = 'studio-faculty';
    studioFaculty.textContent = studio['faculty-ja'];
+   const studioImage1 = document.createElement("img");
+   studioImage1.className = 'studio-image1';
+   studioImage1.imgContent = studio['photo2'];
    studioDiv.appendChild(studioTitle);
    studioDiv.appendChild(studioTitleEn);
    studioDiv.appendChild(studioFaculty);
+   studioDiv.appendChild(studioImage1);
    studioDiv.appendChild(studioDescription);
    document.getElementById('studios').appendChild(studioDiv);
  });
