@@ -8,14 +8,28 @@ const renderJson = (json) => {
   
   studios.forEach(studio => {
    const studioDiv = document.createElement('div');
+
    const studioTitle = document.createElement("span");
    studioTitle.className = 'studio-title';
    studioTitle.textContent = studio['name-ja'];
+
    const studioTitleEn = document.createElement("span");
    studioTitleEn.className = 'studio-title-en';
    studioTitleEn.textContent = studio['name-en'];
+
+   const studioCore  = document.createElement('span');
+   studioCore.className = 'studio-core'
+   studioCore.textcontent = studio['core-ja'];
+ 
+   const studioCoreEn = documemt.createElement('span');
+   studioaCoreEn.className = 'studio-class-name'
+   studioCoreEn.textcontent = studio['core-en'];
+
    studioDiv.appendChild(studioTitle);
    studioDiv.appendChild(studioTitleEn);
+   studioDiv.appendChild(studioCore);
+   studioDiv.appendChild(studioCoreEn);
+   
    document.getElementById('studios').appendChild(studioDiv);
  });
   document.getElementById('result').textContent = JSON.stringify(json, null, 2);
