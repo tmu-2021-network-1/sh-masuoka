@@ -23,7 +23,7 @@ const renderJson = (json) => {
  
    const studioCoreEn = documemt.createElement('span');
    studioaCoreEn.className = 'studio-class-name'
-   studioCoreEn.textcontent = studio[core-en];
+   studioCoreEn.textcontent = studio['core-en'];
 
    studioDiv.appendChild(studioTitle);
    studioDiv.appendChild(studioTitleEn);
