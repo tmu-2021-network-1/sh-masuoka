@@ -27,11 +27,11 @@ const renderJson = (json) => {
    studioDiv.appendChild(studioTitleEn);
    studioDiv.appendChild(studioFaculty);
    studioDiv.appendChild(studioDescription);
-   /*
    document.getElementById('studios').appendChild(studioDiv);
-   */
  });
+/* 
   document.getElementById('result').textContent = JSON.stringify(json, null, 2);
+*/
 }
 
 const getData = async () => {
