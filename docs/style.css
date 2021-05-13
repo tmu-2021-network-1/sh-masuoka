@@ -19,3 +19,6 @@ body {
     font-weight: 100;
     opacity: 0.75;
   }
+  .studio-description {
+      margin-left: 5px;
+  }

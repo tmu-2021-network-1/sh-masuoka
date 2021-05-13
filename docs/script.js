@@ -5,6 +5,8 @@ const endpoint = `${uri}?id=${id}&sheet=${sheet}`;
 
 const renderJson = (json) => {
   const studios = json.records;
+
+  studios.pop();
   
   studios.forEach(studio => {
    const studioDiv = document.createElement('div');
@@ -14,8 +16,12 @@ const renderJson = (json) => {
    const studioTitleEn = document.createElement("span");
    studioTitleEn.className = 'studio-title-en';
    studioTitleEn.textContent = studio['name-en'];
+   const studioDescription = document.createElement("p")
+   studioDescription.className = 'studio-description';
+   studioDescription.textContent = studio['description-ja']
    studioDiv.appendChild(studioTitle);
    studioDiv.appendChild(studioTitleEn);
+   studioDiv.appendChild(studioDescription);
    document.getElementById('studios').appendChild(studioDiv);
  });
   document.getElementById('result').textContent = JSON.stringify(json, null, 2);
