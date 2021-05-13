@@ -20,5 +20,7 @@ body {
     opacity: 0.75;
   }
   .studio-description {
-      margin-left: 5px;
+      margin-left: 1em;
+      font-size: 0.5em;
+      color: #000;
   }
