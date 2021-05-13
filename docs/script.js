@@ -17,6 +17,7 @@ const renderJson = (json) => {
    studioTitleEn.className = 'studio-title-en';
    studioTitleEn.textContent = studio['name-en'];
 
+  /*
    const studioCore  = document.createElement('span');
    studioCore.className = 'studio-core';
    studioCore.textcontent = studio['core-ja'];
@@ -24,11 +25,15 @@ const renderJson = (json) => {
    const studioCoreEn = documemt.createElement('span');
    studioCoreEn.className = 'studio-core-en';
    studioCoreEn.textcontent = studio['core-en'];
+*/
 
    studioDiv.appendChild(studioTitle);
    studioDiv.appendChild(studioTitleEn);
+
+/*
    studioDiv.appendChild(studioCore);
    studioDiv.appendChild(studioCoreEn);
+   */
    
    document.getElementById('studios').appendChild(studioDiv);
  });
