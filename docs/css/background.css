@@ -7,43 +7,12 @@ html {
   letter-spacing: 0px;
 }
 
-.mainvisual{
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden;
-  }
-  .container{
-    position: relative;
-    background: transparent;
-  }
-  section{
-    max-width: 800px;
-    padding: 50px 25px;
-    margin: 0 auto;
-　
 
-/*
-div {
-  box-sizing: border-box;
-  color: rgb(0, 0, 0);
-  font-size: 5rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  /*画面全体の設定*/
+body,
+html {
   height: 100%;
-  padding: 2%;
+  margin: 0 auto;
+  letter-spacing: 2px;
+  font-size: 10px;
 }
-
-.parallax-bg {
-  background-image: url('gqgqgq.png');
-  background-attachment: fixed;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
- 
-.scrollbox {
-  background-color: #111;
-}
-*/

@@ -1,6 +1,6 @@
 
 video{
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
       width: auto;
@@ -12,25 +12,50 @@ video{
     font-family: "ヒラギノ角ゴシック";
     writing-mode: vertical-rl; 
     opacity: 30%;
-    padding-top: 50px;
-    padding-left: 20px;
+    top: 40px;
+    right: 20px;
     position: fixed;
     font-size: 80px;
     color: rgb(52, 216, 216);
 }
 
-.drop1{
-    font-size: 50px;
-    text-align: center;
-    padding: 100px;
+body,
+html {
+  background-color: black;
+  height: 8000px;
+  margin: 0 auto;
+  letter-spacing: 0px;
+  font-size: 10px;
 }
-.drop2{
-    font-size: 50px;
-    text-align: right;
-    padding: 100px;
+  
+/*固定する背景*/
+div {
+  box-sizing: border-box;
+  color: #FFF;
+  font-size: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 5%;
 }
-.drop3{
-    font-size: 50px;
-    text-align: left;
-    padding: 100px;
+.parallax-bg500 {
+  background-image: url("images/500.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.parallax-bg499 {
+  background-image: url("images/499.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+ 
+/*スクロールするコンテンツ*/
+.scrollbox {
+  background-color: #111;
 }
