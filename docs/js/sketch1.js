@@ -1,5 +1,5 @@
 var stop_y = 0;
-var y = 200000;
+var y = 400000;
 var i = 0;
 var step = 100;
 var video = document.getElementById('mov');
