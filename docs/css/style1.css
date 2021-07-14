@@ -47,6 +47,10 @@ div {
     background-repeat: no-repeat;
 }
 
+.img501 {
+  background-image: url("../images/501.png");
+  }
+
 .img500 {
   background-image: url("../images/500.png");
 }
