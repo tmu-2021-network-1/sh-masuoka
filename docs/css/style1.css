@@ -1,0 +1,36 @@
+
+video{
+    position: fixed;
+    top: 0;
+    left: 0;
+      width: auto;
+      height: auto;
+      min-width: 100%;
+      min-height: 100%;
+  }
+  #title{
+    font-family: "ヒラギノ角ゴシック";
+    writing-mode: vertical-rl; 
+    opacity: 30%;
+    padding-top: 50px;
+    padding-left: 20px;
+    position: fixed;
+    font-size: 80px;
+    color: rgb(52, 216, 216);
+}
+
+.drop1{
+    font-size: 50px;
+    text-align: center;
+    padding: 100px;
+}
+.drop2{
+    font-size: 50px;
+    text-align: right;
+    padding: 100px;
+}
+.drop3{
+    font-size: 50px;
+    text-align: left;
+    padding: 100px;
+}
