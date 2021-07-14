@@ -21,7 +21,7 @@ video{
 
 body,
 html {
-  background-color: black;
+  background-color: white;
   height: 8000px;
   margin: 0 auto;
   letter-spacing: 0px;
@@ -38,9 +38,6 @@ div {
   justify-content: center;
   height: 100%;
   padding: 5%;
-  max-width: 100%;	
-  vertical-align: bottom;
-  line-height: 1.0em;
 }
 .parallax-bg500 {
   background-image: url("../images/500.png");
