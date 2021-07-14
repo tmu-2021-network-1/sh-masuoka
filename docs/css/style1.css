@@ -31,7 +31,7 @@ html {
 /*固定する背景*/
 div {
   box-sizing: border-box;
-  color: #FFF;
+  color: rgb(47, 201, 188);
   font-size: 5rem;
   display: flex;
   align-items: center;
