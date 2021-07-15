@@ -9,24 +9,16 @@ video{
       min-height: 100%;
   }
   #title{
-    font-family: "ヒラギノ角ゴシック";
     writing-mode: vertical-rl; 
     opacity: 30%;
     top: 40px;
-    right: 20px;
     position: fixed;
+    right: 20px;
     font-size: 80px;
     color: rgb(52, 216, 216);
 }
 
-body,
-html {
-  background-color: white;
-  height: 8000px;
-  margin: 0 auto;
-  letter-spacing: 0px;
-  font-size: 10px;
-}
+
   
 /*固定する背景*/
 div {
