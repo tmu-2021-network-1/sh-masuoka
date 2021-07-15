@@ -26,13 +26,13 @@ function Wscroll () {
         Wscroll();
     }
     */
-   
-    else{
-
-        y=400000;
-        Wscroll();
     
-    }
+}
+
+function stopScroll(){
+    y = 0;
+    window.scroll (0,y);
+    window.location.reload();
 }
  
 /*
