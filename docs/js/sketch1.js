@@ -1,7 +1,7 @@
 var stop_y = 0;
-var y = 400000;
+var y = 360000;
 var i = 0;
-var step = 60;
+var step = 20;
 console.log(y);
 
 function Wscroll () {

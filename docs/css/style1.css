@@ -913,7 +913,7 @@ div {
 }
 
 .img277 {
-  background-image: url("../images/.277png");
+  background-image: url("../images/277png");
 }
 
 .img276 {
@@ -1122,15 +1122,15 @@ div {
 }
 
 .img223 {
-  background-image: url("../images/.223png");
+  background-image: url("../images/223.png");
 }
 
 .img222 {
-  background-image: url("../images/.222png");
+  background-image: url("../images/222.png");
 }
 
 .img221 {
-  background-image: url("../images/.221png");
+  background-image: url("../images/221.png");
 }
 
 .img220 {
@@ -1838,8 +1838,7 @@ div {
 
 .img041 {
   background-image: url("../images/041.png");
-  position: absolute;
-  left: 800px;
+
 }
 
 .img040 {
@@ -1933,14 +1932,12 @@ div {
 
 .img017 {
   background-image: url("../images/017.png");
-  position: absolute;
-  left: 100px;
+
 }
 
 .img016 {
   background-image: url("../images/016.png");
-  position: absolute;
-  left: 700px;
+  
 }
 
 .img015 {
@@ -1956,8 +1953,7 @@ div {
 
 .img012 {
   background-image: url("../images/012.png");
-  position: absolute;
-  left: 800px;
+
 }
 
 .img011 {
@@ -1965,8 +1961,6 @@ div {
 }
 .img010 {
   background-image: url("../images/010.png");
-  position: absolute;
-  left: 400px;
 }
 
 .img009 {
@@ -1978,14 +1972,17 @@ div {
 }
 .img007 {
   background-image: url("../images/007.png");
+  
 }
 
 .img006 {
   background-image: url("../images/006.png");
+ 
 }
 
 .img005 {
   background-image: url("../images/005.png");
+  
 }
 
 .img004 {
@@ -2006,5 +2003,14 @@ div {
 
 /*スクロールするコンテンツ*/
 .scrollbox {
-  background-color: #111;
+  background-color:transparent;
 }
+
+/*文字セット
+color: slateblue;
+  opacity: 40%;
+  font-size: 200px;
+  position: absolute;
+  top: 100000px;
+  left: 100px;
+  */
