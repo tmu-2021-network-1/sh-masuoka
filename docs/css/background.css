@@ -12,7 +12,8 @@ html {
   position: fixed;
   background-color: violet;
   opacity: 60%;
-  left: 30px;
+  top: 30px;
+  left: auto;
   z-index: 40;
   display: block;
   cursor: pointer;
@@ -26,8 +27,8 @@ html {
   position: fixed;
   background-color: yellow;
   opacity: 60%;
-  top: 60px;
-  left: 30px;
+  top: 90px;
+  left: auto;
   z-index: 40;
   display: block;
   cursor: pointer;
