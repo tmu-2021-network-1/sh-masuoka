@@ -1,7 +1,7 @@
 var stop_y = 0;
-var y = 390000;
+var y = 410000;
 var i = 0;
-var step = 15;
+var step = 40;
 console.log(y);
 
 
