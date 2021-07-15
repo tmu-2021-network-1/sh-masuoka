@@ -1,36 +1,36 @@
-.kashimurasaki{
-    opacity: 40%;
+.kashimuras{
+    opacity: 50%;
     font-size: 200px;
     position: absolute;
     color: slateblue;
 }
 
 .kashikiiro{
-    opacity: 40%;
+    opacity: 50%;
     font-size: 200px;
     position: absolute;
     color: rgb(208, 241, 89);
 }
-.kashimidori{
-    opacity: 40%;
+.kashimidor{
+    opacity: 50%;
     font-size: 200px;
     position: absolute;
     color: rgb(76, 241, 112);
 }
 .kashiaoiro{
-    opacity: 40%;
+    opacity: 50%;
     font-size: 200px;
     position: absolute;
     color: rgb(89, 150, 241);
 }
-.kashiakairo{
-    opacity: 40%;
+.kashiakair{
+    opacity: 50%;
     font-size: 200px;
     position: absolute;
     color: rgb(240, 70, 70);
 }
 .kashipinku{
-    opacity: 40%;
+    opacity: 50%;
     font-size: 200px;
     position: absolute;
     color: rgb(241, 89, 221);
@@ -50,15 +50,511 @@
 }
 .word4{
     top: 378500px;
-    left: 200px;
+    left: 300px;
 }
 .word5{
     top: 378200px;
-    left: 500px;
+    left: 600px;
 }
 .word6{
     top: 377900px;
+    left: 900px;
+}
+.word7{
+    top: 377000px;
+    left: 500px;
+}
+.word8{
+    top: 376700px;
     left: 800px;
+}
+.word9{
+    top: 376400px;
+    left: 1100px;
+}
+.word10{
+    top: 376000px;
+    left: 1100px;
+}
+.word11{
+    top: 375900px;
+    left: 200px;
+}
+.word12{
+    top: 375750px;
+    left: 400px;
+}
+.word13{
+    top: 375700px;
+    left: 100px;
+}
+.word14{
+    top: 375550px;
+    left: 800px;
+}
+.word15{
+    top: 375400px;
+    left: 300px;
+}
+.word16{
+    top: 375350px;
+    left: 1100px;
+}
+.word17{
+    top: 375200px;
+    left: 600px;
+}
+.word18{
+    font-size: 500px;
+    top: 374000px;
+    left: 550px;
+}
+.word19{
+    font-size: 300px;
+    top: 373500px;
+    left: 100px;
+}
+.word20{
+    font-size: 300px;
+    top: 373500px;
+    left: 600px;
+}
+.word21{
+    font-size: 300px;
+    top: 373500px;
+    left: 1100px;
+}
+.word22{
+    font-size: 300px;
+    top: 371500px;
+    left: 100px;
+}
+.word23{
+    font-size: 300px;
+    top: 371500px;
+    left: 600px;
+}
+.word24{
+    font-size: 300px;
+    top: 371500px;
+    left: 1100px;
+}
+.word25{
+    font-size: 400px;
+    top: 370400px;
+    left: 100px;
+}
+.word26{
+    top: 370500px;
+    left: 450px;
+}
+.word27{
+    top: 370350px;
+    left: 550px;
+}
+.word28{
+    top: 370250px;
+    left: 750px;
+}
+.word29{
+    top: 370150px;
+    left: 950px;
+}
+.word30{
+    top: 369900px;
+    left: 1100px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
+}
+.word{
+    top: px;
+    left: px;
 }
 .word{
     top: px;
