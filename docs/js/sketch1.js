@@ -1,7 +1,7 @@
 var stop_y = 0;
 var y = 400000;
 var i = 0;
-var step = 50;
+var step = 48;
 /*
 var video = document.getElementById('mov');
 */
@@ -18,11 +18,13 @@ function Wscroll () {
         video.currentTime = videoscroll;
         */
     }
-
-    if(y==0){
+/*
+    if(y==30000000){
+        y=0;
         window.scroll (0,y);
         Wscroll();
     }
+    */
    
     else{
 
@@ -32,16 +34,12 @@ function Wscroll () {
     }
 }
  
+/*
 function reScroll(){
-  y=0;
+  y=30000000;
 }
 
 function reScroll_2(){
-    y=-10;
+    y=1;
   }
-
-
-
-
-
-
+  */
