@@ -1,8 +1,66 @@
-#kashi1{
-    color: slateblue;
+.kashimurasaki{
     opacity: 40%;
     font-size: 200px;
     position: absolute;
-    top: 340000px;
+    color: slateblue;
+}
+
+.kashikiiro{
+    opacity: 40%;
+    font-size: 200px;
+    position: absolute;
+    color: rgb(208, 241, 89);
+}
+.kashimidori{
+    opacity: 40%;
+    font-size: 200px;
+    position: absolute;
+    color: rgb(76, 241, 112);
+}
+.kashiaoiro{
+    opacity: 40%;
+    font-size: 200px;
+    position: absolute;
+    color: rgb(89, 150, 241);
+}
+.kashiakairo{
+    opacity: 40%;
+    font-size: 200px;
+    position: absolute;
+    color: rgb(240, 70, 70);
+}
+.kashipinku{
+    opacity: 40%;
+    font-size: 200px;
+    position: absolute;
+    color: rgb(241, 89, 221);
+}
+
+.word1{
+    top: 380000px;
     left: 100px;
+}
+.word2{
+    top: 379700px;
+    left: 400px;
+}
+.word3{
+    top: 379400px;
+    left: 700px;
+}
+.word4{
+    top: 378500px;
+    left: 200px;
+}
+.word5{
+    top: 378200px;
+    left: 500px;
+}
+.word6{
+    top: 377900px;
+    left: 800px;
+}
+.word{
+    top: px;
+    left: px;
 }
