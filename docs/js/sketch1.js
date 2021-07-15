@@ -10,7 +10,17 @@ function Wscroll () {
         y -= step;
         window.scroll (0,y);
         setTimeout ("Wscroll()",10);
-        audio.play(); 
+      
+    }
+    
+}
+function Wscroll2 () {
+    if ( y > stop_y ) {
+        y -= step;
+    var sy = y-200000;
+        window.scroll (0,sy);
+        setTimeout ("Wscroll2()",10);
+  
     }
     
 }

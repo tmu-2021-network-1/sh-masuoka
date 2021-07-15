@@ -37,3 +37,17 @@ html {
   text-align: center;
   border: 1px solid #232323;
 }
+#text3 {
+  position: fixed;
+  background-color: rgb(90, 238, 181);
+  opacity: 60%;
+  top: 150px;
+  left: auto;
+  z-index: 40;
+  display: block;
+  cursor: pointer;
+  width: 240px;
+  height: 44px;
+  text-align: center;
+  border: 1px solid #232323;
+}
