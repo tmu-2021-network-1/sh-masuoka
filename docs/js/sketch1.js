@@ -18,16 +18,27 @@ function Wscroll () {
         video.currentTime = videoscroll;
         */
     }
+
+    if(y==0){
+        window.scroll (0,y);
+        Wscroll();
+    }
+   
     else{
 
-        return;
-        /*
-        y=4000;
+        y=400000;
         Wscroll();
-        */
+    
     }
 }
+ 
+function reScroll(){
+  y=0;
+}
 
+function reScroll_2(){
+    y=-10;
+  }
 
 
 

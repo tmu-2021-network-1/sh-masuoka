@@ -1933,10 +1933,14 @@ div {
 
 .img017 {
   background-image: url("../images/017.png");
+  position: absolute;
+  left: 100px;
 }
 
 .img016 {
   background-image: url("../images/016.png");
+  position: absolute;
+  left: 700px;
 }
 
 .img015 {
@@ -1952,6 +1956,8 @@ div {
 
 .img012 {
   background-image: url("../images/012.png");
+  position: absolute;
+  left: 800px;
 }
 
 .img011 {
@@ -1959,6 +1965,8 @@ div {
 }
 .img010 {
   background-image: url("../images/010.png");
+  position: absolute;
+  left: 400px;
 }
 
 .img009 {
