@@ -1,3 +1,4 @@
+/*
 
 video{
     position: relative;
@@ -8,6 +9,8 @@ video{
       min-width: 100%;
       min-height: 100%;
   }
+  */
+
   #title{
     writing-mode: vertical-rl; 
     opacity: 30%;
@@ -19,15 +22,16 @@ video{
 }
 
 
-  
 /*固定する背景*/
 div {
   box-sizing: border-box;
   color: rgb(47, 201, 188);
   font-size: 5rem;
+    /*
   display: flex;
   align-items: center;
   justify-content: center;
+  */
   height: 100%;
   padding: 5%;
 }
@@ -1834,6 +1838,8 @@ div {
 
 .img041 {
   background-image: url("../images/041.png");
+  position: absolute;
+  left: 800px;
 }
 
 .img040 {
